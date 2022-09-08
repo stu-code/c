@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606624604 source:c:\users\stu\programming\c\farenheight\farenheight.c
+	<stdio.h>
+	<math.h>
+
+1606624931 source:c:\users\stu\programming\c\farenheight\farenheightloop.c
+

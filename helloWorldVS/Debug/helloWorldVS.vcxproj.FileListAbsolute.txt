@@ -1,0 +1,2 @@
+C:\Users\Stu\Documents\Programming\C\helloWorldVS\Debug\helloWorldVS.exe
+C:\Users\Stu\Documents\Programming\C\helloWorldVS\Debug\helloWorldVS.pdb
